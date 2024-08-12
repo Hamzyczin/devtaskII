@@ -1,0 +1,89 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.nav-bar{
+    border: 2px solid green;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 84px;
+    background-color: #f5f7fa;
+    margin-top: 0PX;
+
+}
+.logo{
+    border: 1px solid yellow;
+    width: 182px;
+    height: 24px;
+    
+}
+.ref{
+    border: 2px solid burlywood;
+}
+a{
+    color: #18191F;
+    text-decoration: none;
+    border: 2px solid brown;
+    width: 500px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.side{
+    width: 182px;
+    height: 40px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    border: solid 1px lightcoral;
+}
+.btn-a{
+    background-color: #4CAFAF;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border-radius: 6px;
+    border: none;
+}
+h1{
+    font-size: 64px;
+}
+br{
+    color: #4CAFAF;
+}
+.heo-d{
+    color: #717171;
+    font-size: 16px;
+}
+.btn-b{
+    background-color: #4CAFAF;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    border-radius: 6px;
+    border: none;
+    text-align: center;
+}
+.heo-sac{
+    border: 2px solid blueviolet;
+    display: flex;
+}
+.in-sec{
+   /* border: 2px solid limegreen;
+    background-color: #f5f7fa;
+    display: flex;
+    justify-content: space-around;*/
+}
+h2{
+    text-align: center;
+    font-size: 36px;
+}
+.in-b{
+    text-align: center;
+
+}
+.in-c{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
